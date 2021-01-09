@@ -11,7 +11,7 @@ I am currently,
 
 I neglected my github and other coding platforms for a while, and I currently working on improving them!
 
-Contact me via mail : 📫 karamel.itu@gmail.com
+Contact me via mail : 📫 karamel.itu@gmail.com and/or 📫 karamelih.science@gmail.com
 
 <!--
 **KaraMelih/KaraMelih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
