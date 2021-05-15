@@ -2,6 +2,7 @@
 
 I have Bsc. in Physics Engineering (Istanbul Technical University), and <br>
        MSc. in Astrophysics (University of Bonn / Germany) <br>
+       and currently I'm a Ph.D. student at Karlsruhe Institute of Technology
 
 I have worked with `Python` programming language for my studies and for both of my thesis projects. <br>
 I am currently,
