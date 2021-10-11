@@ -10,7 +10,7 @@ I am currently,
 - working as a teaching assistant for the "*Data Science for Public Good*" Bootcamp by Kodluyoruz
 - learning machine learning models, SQL, and Power BI
 
-I neglected my github and other coding platforms for a while, and I currently working on improving them!
+https://github-readme-stats.vercel.app/api?username=KaraMelih&count_private=true&show_icons=true&theme=chartreuse-dark
 
 Contact me via mail : 📫 karamel.itu@gmail.com and/or 📫 karamelih.science@gmail.com and/or 📫 kara@kit.edu
 
